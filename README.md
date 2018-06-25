@@ -1,0 +1,2 @@
+# docker-netlifyctl
+dockerized netlifyctl
